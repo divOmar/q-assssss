@@ -1,0 +1,12 @@
+div{
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+}
+button{
+    color: white;
+    background-color: blue;
+    width: 150px;
+    height: 80px;
+}
